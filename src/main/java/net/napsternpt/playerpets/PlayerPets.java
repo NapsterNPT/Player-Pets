@@ -11,6 +11,6 @@ public class PlayerPets implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-
+		LOGGER.info("Initializing Player Pets mod");
 	}
 }
