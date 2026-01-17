@@ -22,4 +22,4 @@ If you want to see the source code or report and issue [Click Here](https://gith
     └── pack.png
     ```
    ### ⚠️ Note that the JSON file and the texture need to have the same name.
-2 Annnnnd i still have to make the rest of the mod.... WWWW
+2 Annnnnd i still have to make the rest of the mod.... WWW
